@@ -1,1 +1,1 @@
-require("./lib/eet-test.js");
+module.exports = require("./lib/eet.js");
